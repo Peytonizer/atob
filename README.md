@@ -1,1 +1,1 @@
-Using for js deobfuscation
+Using for node-atob for js deobfuscation
